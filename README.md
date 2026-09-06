@@ -6,7 +6,7 @@
 📫 Reach me at: sidharthhavaldar@gmail.com
 
 ## Skills
-Python | SQL | Pandas | NumPy | Machine Learning
+Python | SQL | Pandas | NumPy
 
 ## Connect with me
 LinkedIn:www.linkedin.com/in/sidharth-havaldar-35656340a
